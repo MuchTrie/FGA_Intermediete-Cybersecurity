@@ -7,7 +7,7 @@
 	&nbsp;&nbsp;&nbsp;
 	<img src="./img/coursera.png" alt="Coursera" height="64" />
 	&nbsp;&nbsp;&nbsp;
-	<img src="./img/komdigi.png" alt="Kominfo Digitalent" height="64" />
+	<img src="./img/komdigi.jpg" alt="Kominfo Digitalent" height="64" />
 </p>
 
 
