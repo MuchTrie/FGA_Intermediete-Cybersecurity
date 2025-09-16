@@ -3,16 +3,14 @@
 <h1 align="center">Google Cybersecurity — Portfolio & Sertifikat</h1>
 
 <p align="center">
-	<a href="https://grow.google/certificates/cybersecurity/">
-		<img alt="Google Cybersecurity" src="https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-4285F4?logo=google&logoColor=white" />
-	</a>
-	<a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
-		<img alt="Coursera" src="https://img.shields.io/badge/Coursera-Partner-2A73CC?logo=coursera&logoColor=white" />
-	</a>
-	<a href="https://github.com/MuchTrie/Google-Cybersecurity">
-		<img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" />
-	</a>
+	<img src="./img/google.png" alt="Google" height="64" />
+	&nbsp;&nbsp;&nbsp;
+	<img src="./img/coursera.png" alt="Coursera" height="64" />
+	&nbsp;&nbsp;&nbsp;
+	<img src="./img/komdigi.png" alt="Kominfo Digitalent" height="64" />
 </p>
+
+
 
 ## Tentang
 Repositori ini menyimpan sertifikat dan portofolio tugas dari program CyberSecurity Intermediate (Digitalent) yang selaras dengan Google Cybersecurity Professional Certificate. Sifatnya arsip belajar dan bukti kompetensi.
