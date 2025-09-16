@@ -1,36 +1,34 @@
-# Google-Cybersecurity
 
-Repositori ini saya gunakan untuk mendokumentasikan perjalanan belajar pada program CyberSecurity Intermediate (Digitalent) yang terintegrasi dengan Google Cybersecurity Professional Certificate.
 
-Fokus utama repo:
-- Menyimpan sertifikat yang diperoleh selama program.
-- Mengarsipkan portofolio/tugas dari setiap modul atau kursus terkait keamanan siber.
-- Menjadi bukti kompetensi dan referensi untuk keperluan profesional.
+<h1 align="center">Google Cybersecurity — Portfolio & Sertifikat</h1>
 
-## Isi & Ruang Lingkup
-- Sertifikat: bukti kelulusan atau penyelesaian modul/kursus terkait.
-- Portofolio Tugas: laporan, kode sumber, analisis, dan artefak praktikum (mis. studi kasus, lab, atau proyek mini).
-- Catatan Ringkas: rangkuman materi penting, perintah, dan best practice keamanan siber.
+<p align="center">
+	<a href="https://grow.google/certificates/cybersecurity/">
+		<img alt="Google Cybersecurity" src="https://img.shields.io/badge/Google%20Cybersecurity-Professional%20Certificate-4285F4?logo=google&logoColor=white" />
+	</a>
+	<a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
+		<img alt="Coursera" src="https://img.shields.io/badge/Coursera-Partner-2A73CC?logo=coursera&logoColor=white" />
+	</a>
+	<a href="https://github.com/MuchTrie/Google-Cybersecurity">
+		<img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" />
+	</a>
+</p>
 
-Status saat ini:
-- `Sertifikat/Introduction-to-AI_Coursera_FBPFPOZWYA74.pdf` (contoh sertifikat yang telah diarsipkan).
+## Tentang
+Repositori ini menyimpan sertifikat dan portofolio tugas dari program CyberSecurity Intermediate (Digitalent) yang selaras dengan Google Cybersecurity Professional Certificate. Sifatnya arsip belajar dan bukti kompetensi.
 
-## Rencana Struktur Direktori
-- `Sertifikat/` — kumpulan file PDF sertifikat.
-- `Portofolio/` — kode, notebook, laporan, atau hasil praktikum/proyek.
-- `Tugas/` — bahan latihan dan submission tiap modul.
-- `Catatan/` — ringkasan materi, cheat sheet, referensi.
+## Struktur Singkat
+- `Sertifikat/` — PDF sertifikat yang sudah diraih.
+- `Portofolio/` — laporan, kode/skrip, notebook, atau artefak proyek/praktikum.
+- `Tugas/` — submission dan bahan latihan tiap modul.
 
-Struktur dapat berkembang mengikuti kebutuhan modul dan proyek.
+## Navigasi Cepat
+- [Folder Sertifikat](./Sertifikat/)
+- [Folder Portofolio](./Portofolio/)
+- [Folder Tugas](./Tugas/)
 
-## Tujuan Pembelajaran Utama
-- Dasar-dasar keamanan siber, terminologi, dan model ancaman.
-- Keamanan jaringan, sistem, identitas, dan akses.
-- Deteksi insiden, analisis log, dan respons insiden.
-- Praktik terbaik hardening, kebijakan keamanan, dan kepatuhan.
-- Pengenalan alat umum (mis. SIEM, analisis log, pemindaian kerentanan) sesuai cakupan kurikulum.
+## Status
+Aktif dan diperbarui bertahap. Terakhir diperbarui: 2025-09-16.
 
 ## Catatan
-Sebagian materi/artefak mungkin tidak dipublikasikan jika berisi data sensitif atau melanggar kebijakan lisensi. Sertifikat dan portofolio yang dapat dibagikan akan diunggah secara bertahap sesuai progres belajar.
-
-— MuchTrie
+Beberapa materi bisa tidak dipublikasikan jika berisi data sensitif atau terikat lisensi. Artefak yang aman untuk dibagikan akan diunggah seiring progres.
