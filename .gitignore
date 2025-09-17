@@ -1,0 +1,7 @@
+# Ignore local documents folder (do not push to GitHub)
+dokumen/
+
+# Optional: ignore local environment/editor files (uncomment if needed)
+# .vscode/
+# *.env
+# Thumbs.db
